@@ -1,0 +1,17 @@
+[
+  {
+    "Action": "CREATE",
+    "Name": "freecodecamp.sachindns.com",
+    "Type": "A",
+    "TTL": 300,
+    "ResourceRecords": [{"Value": "192.0.2.1"}]
+  },
+  {
+    "Action": "UPDATE",
+    "Name": "freecodecamp.sachindns.com",
+    "Type": "A",
+    "TTL": 300,
+    "ResourceRecords": [{"Value": "192.0.2.8"}]
+  }
+  
+]

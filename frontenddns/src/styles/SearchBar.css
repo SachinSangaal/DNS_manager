@@ -1,0 +1,12 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px; 
+  }
+  
+  .search-bar input,
+  .search-bar select {
+    margin-right: 10px; 
+  }
+  
