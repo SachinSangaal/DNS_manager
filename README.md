@@ -1,7 +1,7 @@
-DNS Manager Dashboard
+#DNS Manager Dashboard
 A web application providing a central dashboard for automating the management of domains and DNS records in bulk on AWS Route 53.
 
-Features
+#Features
 Dashboard: Centralized view for managing domains and DNS records.
 Forms/Modals: Add, edit, and delete DNS record entries.
 Filters/Search Options: Easy navigation of bulk data.
