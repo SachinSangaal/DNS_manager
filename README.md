@@ -5,8 +5,8 @@ A web application providing a central dashboard for automating the management of
 ## Features
 
 - **Dashboard**: Centralized view for managing domains and DNS records.
-- **Forms/Modals**: Add, edit, and delete DNS record entries.
-- **Filters/Search Options**: Easy navigation of bulk data.
+- **Forms**: Add, edit, and delete DNS record entries.
+- **Search Option**: Easy navigation of bulk data.
 - **Graphs/Charts**: Visual representation of domain and record type distribution.
 - **Bulk Uploads**: Support for CSV or JSON uploads for domain and record data.
 - **Backend API**: Connects UI to AWS Route 53 for CRUD operations on DNS records.
